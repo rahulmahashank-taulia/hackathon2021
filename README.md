@@ -20,5 +20,3 @@ The script can install the list of packages you have provided. By default it ins
 2. mysql@5.6
 3. Java 8/11
 4. redis
-5. activemq
-6. cassandra
